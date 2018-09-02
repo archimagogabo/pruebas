@@ -1,0 +1,4 @@
+[submodule "modoolar/scrummer"]
+	path = modoolar/scrummer
+	url = git@github.com:archimagogabo/pruebas.git
+	branch = master
